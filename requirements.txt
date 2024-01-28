@@ -1,0 +1,6 @@
+tinydb
+beautifulsoup4
+Flask
+Flask-Login
+requests
+Jinja2
